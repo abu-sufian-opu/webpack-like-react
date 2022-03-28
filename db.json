@@ -1,0 +1,39 @@
+{
+    "products"  : [
+        {
+            "id"            : 1,
+            "name"          : "oppo",
+            "price"         : 12500,
+            "sale_price"    : 11500,
+            "photo"         : "https://static-01.daraz.com.bd/p/f183f2e9b1853bcdcbe767d9c2a2aba8.jpg"
+        },
+        {
+            "id"            : 2,
+            "name"          : "samsung",
+            "price"         : 13000,
+            "sale_price"    : 10000,
+            "photo"         : "https://static-01.daraz.com.bd/p/mdc/5b7ee1c574b1f71f32b1eea6924a7913.jpg"
+        },
+        {
+            "id"            : 3,
+            "name"          : "Realmi",
+            "price"         : 11000,
+            "sale_price"    : 10500,
+            "photo"         : "https://static-01.daraz.com.bd/p/c92af75f064f545b020d9f8f6ae9b308.jpg"
+        },
+        {
+            "id"            : 4,
+            "name"          : "one plus",
+            "price"         : 15000,
+            "sale_price"    : 12000,
+            "photo"         : "https://static-01.daraz.com.bd/p/d2894ba6c97c35e57c065c01fb7a87f4.png"
+        },
+        {
+            "id"            : 5,
+            "name"          : "nokia",
+            "price"         : 12000,
+            "sale_price"    : 10000,
+            "photo"         : "https://static-01.daraz.com.bd/p/abb4ff6094d1577ded1869124c23730a.jpg"
+        }
+    ]
+}
